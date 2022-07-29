@@ -1,0 +1,13 @@
+So create header files and cpp files for all the elements.
+
+We need to g++ -c all cpp files to be used to generate object files.
+
+Link these object files to generate library.
+
+ar ru animal_library.a AnimalFactory.o Cat.o Dog.o Horse.o 
+
+then add library files to generate executable.
+
+ g++ -o animalKingdom Test.cpp animal_library.a 
+
+ ./animalKingdom is the run now.
