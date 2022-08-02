@@ -1,3 +1,3 @@
 # DesignPatterns
 
-<h2> Learning Design Patterns </h2>
+<h3> Learning Design Patterns using C++ and Java.  </h3>
