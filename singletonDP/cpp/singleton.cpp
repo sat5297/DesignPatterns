@@ -20,3 +20,7 @@ int main(){
     t2.join();
     return 0;
 }
+
+//command to execute for thread safe in Linux --> g++ -o singletonDP *.cpp -pthread
+
+//without thread --> g++ -o singletonDP *.cpp 
