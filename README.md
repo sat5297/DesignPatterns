@@ -1,3 +1,3 @@
 # DesignPatterns
 
-<h3> Learning Design Patterns in C++ and Java.  </h3>
+<h3> Learning Design Patterns using C++ and Java.  </h3>
