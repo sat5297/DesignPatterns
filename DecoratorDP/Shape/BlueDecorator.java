@@ -13,7 +13,7 @@ public class BlueDecorator extends ShapeDecorator {
     }
 
     private void setBlueDecorator(){
-        System.out.println("Border : Color Red...!!!");
+        System.out.println("Border : Color Blue...!!!");
     }
     
 }
